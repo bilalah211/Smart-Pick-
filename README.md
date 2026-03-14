@@ -1,4 +1,4 @@
-# Smart Pick - E-Commerce App
+## Smart Pick - E-Commerce App
 
 **Smart Pick** is a Flutter-based mobile e-commerce application that allows 
 users to browse products, view details, add items to the cart, and complete 
@@ -16,6 +16,14 @@ shopping experience for customers.
 - Admin panel can edit and add products easily
 - Payment Method
 - Cash on Delivery
+
+## Technologies Used
+
+- **Flutter** for front-end
+- **Dart** programming language
+- **Firebase** for backend and authentication
+- **Cloud Firestore** for database
+- **Cloudinary** For data saving
 
 ## App Screenshots
 
@@ -40,12 +48,4 @@ shopping experience for customers.
 ### Folder Structure
 ![Folder](screenshots/folders.JPG)
 
-
-## Technologies Used
-
-- **Flutter** for front-end
-- **Dart** programming language
-- **Firebase** for backend and authentication
-- **Cloud Firestore** for database
-- **Cloudinary** For data saving
 
