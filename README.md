@@ -19,23 +19,27 @@ shopping experience for customers.
 
 ## App Screenshots
 
+### Logo Screen
+![Logo](screenshots/logo.JPG)
+
+### Onboarding Screen
+![Onboarding](screenshots/onboarding.JPG)
+
+### Authentication Screen
+![Authentication](screenshots/auth.JPG)
+
 ### Home Screen
-![Home](screenshots/home.png)
+![Home](screenshots/home.JPG)
 
-### Product Screen
-![Product](screenshots/product.png)
-
-### Cart Screen
-![Cart](screenshots/cart.png)
+### Payment Screen
+![Payment](screenshots/payment.JPG)
 
 ### Admin Screen
-![Cart](screenshots/cart.png)
+![Admin](screenshots/admin.JPG)
 
-### Categories Screen
-![Cart](screenshots/cart.png)
+### Folder Structure
+![Folder](screenshots/folder.png)
 
-### Products Screen
-![Cart](screenshots/cart.png)
 
 ## Technologies Used
 
