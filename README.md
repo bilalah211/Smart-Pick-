@@ -1,16 +1,47 @@
-# ecommerceapp
+# Smart Pick - E-Commerce App
 
-A new Flutter project.
+**Smart Pick** is a Flutter-based mobile e-commerce application that allows 
+users to browse products, view details, add items to the cart, and complete 
+secure online purchases. The app is designed to provide a smooth and user-friendly
+shopping experience for customers.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse products by category
+- View product details with images and description
+- Add products to cart and manage cart items
+- Secure checkout and payment integration
+- User authentication (sign up, login, logout)
+- Order history and tracking
+- Admin panel can edit and add products easily
+- Payment Method
+- Cash on Delivery
 
-A few resources to get you started if this is your first Flutter project:
+## App Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home Screen
+![Home](screenshots/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Product Screen
+![Product](screenshots/product.png)
+
+### Cart Screen
+![Cart](screenshots/cart.png)
+
+### Admin Screen
+![Cart](screenshots/cart.png)
+
+### Categories Screen
+![Cart](screenshots/cart.png)
+
+### Products Screen
+![Cart](screenshots/cart.png)
+
+## Technologies Used
+
+- **Flutter** for front-end
+- **Dart** programming language
+- **Firebase** for backend and authentication
+- **Cloud Firestore** for database
+- **Cloudinary** For data saving
+
