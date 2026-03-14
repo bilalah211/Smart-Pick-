@@ -38,7 +38,7 @@ shopping experience for customers.
 ![Admin](screenshots/admin.JPG)
 
 ### Folder Structure
-![Folder](screenshots/folder.png)
+![Folder](screenshots/folders.JPG)
 
 
 ## Technologies Used
