@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650360320649",
+    "project_id": "smart-pick-8421f",
+    "storage_bucket": "smart-pick-8421f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650360320649:android:af1cf8955698c68b7a4c58",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDefSr-2qxYSYnOTObNE9G_fvB5rvdqIME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
