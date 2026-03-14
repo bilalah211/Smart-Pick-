@@ -19,8 +19,8 @@ shopping experience for customers.
 
 ## App Screenshots
 
-### Logo Screen
-![Logo](screenshots/logo.JPG)
+### Splash Logo Screen
+![Logo](screenshots/splash logo.png)
 
 ### Onboarding Screen
 ![Onboarding](screenshots/onboarding.JPG)
