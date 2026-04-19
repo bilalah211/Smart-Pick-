@@ -25,22 +25,19 @@ shopping experience for customers.
 - **Cloud Firestore** for database
 - **Cloudinary** For data saving
 
-## App Screenshots
+## 📸 App Screenshots
 
-### Splash Logo Screen
-![Splash](screenshots/splashlogo.png)
+### 🎨 Design & Entry
+| Splash Logo | Onboarding | Authentication |
+| :---: | :---: | :---: |
+| <img src="screenshots/splashlogo.png" width="220"> | <img src="screenshots/onboarding.JPG" width="220"> | <img src="screenshots/auth.JPG" width="220"> |
 
-### Onboarding Screen
-![Onboarding](screenshots/onboarding.JPG)
+<br>
 
-### Authentication Screen
-![Authentication](screenshots/auth.JPG)
-
-### Home Screen
-![Home](screenshots/home.JPG)
-
-### Payment Screen
-![Payment](screenshots/payment.JPG)
+### 💳 Core Functionality
+| Home Dashboard | Payment Screen |
+| :---: | :---: |
+| <img src="screenshots/home.JPG" width="220"> | <img src="screenshots/payment.JPG" width="220"> |
 
 ### Admin Screen
 ![Admin](screenshots/admin.JPG)
